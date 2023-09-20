@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **elmerpumat@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/elmer-puma-ingeniero-de-software-7a72714b/](https://www.linkedin.com/in/elmer-puma-ingeniero-de-software-7a72714b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/elmer-puma-ingeniero-de-software-7a72714b/](https://www.linkedin.com/in/elmerpuma/)
 
 - ⚡ Fun fact **Muchas habilidades interpersonales**
 
