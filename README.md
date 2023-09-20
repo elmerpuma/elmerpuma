@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Canvia](https://www.canvia.com/)
 
-- 🌱 I’m currently learning **Docker,Programación Reactiva, kafka**
+- 🌱 I’m currently learning **Programación Reactiva, Apache kafka,CD,TDD**
 
 - 👯 I’m looking to collaborate on [ONP-APPENS](https://onpvirtual.pe/#/Inicio)
 
-- 💬 Ask me about **Java,Microservicios,Spring boot,PHP, Laravel,Angular,Docker,CD, MySql, SQL Server, Oracle**
+- 💬 Ask me about **Java, Microservicios, Spring boot, PHP, Laravel, Angular, Docker, CD, MySql, SQL Server, Oracle**
 
 - 📫 How to reach me **elmerpumat@gmail.com**
 
