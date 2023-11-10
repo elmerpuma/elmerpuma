@@ -1,4 +1,4 @@
-# Hola, mi nombre es Elmer Puma 👋
+# Hola, Mi nombre es Elmer Puma 👋
 ### Analista Programador Full Stack Engineer
 
 Soy Analista Programador Full Stack, con experiencia en desarrollo de sistemas de\\ información bajo enfoque de metodologías agiles y practicas Devops, así como\\ la gestión de sistemas de información y comunicaciones; cuento con conocimiento\\ de Cloud computing  y elaboracion de proyectos TI.
