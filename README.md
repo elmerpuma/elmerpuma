@@ -7,10 +7,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-
-<h1 align="center">Hi 👋, I'm Elmer Puma</h1>
-<h3 align="center">Soy Analista Programador Full Stack</h3>
-
 - 🔭 I’m currently working on [Canvia](https://www.canvia.com/)
 
 - 🌱 I’m currently learning **Programación Reactiva, Apache kafka,CD,TDD**
