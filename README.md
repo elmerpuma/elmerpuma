@@ -6,6 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+
 Soy Analista Programador Full Stack, con experiencia en desarrollo de sistemas de\\ información bajo enfoque de metodologías agiles y practicas Devops, así como\\ la gestión de sistemas de información y comunicaciones; cuento con conocimiento\\ de Cloud computing  y elaboracion de proyectos TI.
 
 - 🔭 I’m currently working on [Canvia](https://www.canvia.com/)
