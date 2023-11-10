@@ -1,5 +1,7 @@
 # Hola, mi nombre es Elmer Puma 👋
 ### Analista Programador Full Stack Engineer
+
+Soy Analista Programador Full Stack, con experiencia en desarrollo de sistemas de\\ información bajo enfoque de metodologías agiles y practicas Devops, así como\\ la gestión de sistemas de información y comunicaciones; cuento con conocimiento\\ de Cloud computing  y elaboracion de proyectos TI.
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/@elmerpumat/channels)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
@@ -7,7 +9,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy Analista Programador Full Stack, con experiencia en desarrollo de sistemas de\\ información bajo enfoque de metodologías agiles y practicas Devops, así como\\ la gestión de sistemas de información y comunicaciones; cuento con conocimiento\\ de Cloud computing  y elaboracion de proyectos TI.
+
 
 - 🔭 I’m currently working on [Canvia](https://www.canvia.com/)
 
